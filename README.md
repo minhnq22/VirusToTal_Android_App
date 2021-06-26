@@ -1,4 +1,4 @@
-"# VirusToTal_Android_App" 
+# VirusToTal_Android_App
 Nguyen Quang Minh - B16DCAT107
 
 Chức năng: Sử dụng API VirusTotal để kiểm tr file/url có phải là file/url độc hại hay không.
